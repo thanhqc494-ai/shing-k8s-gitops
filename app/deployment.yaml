@@ -1,8 +1,7 @@
-
 apiVersion: v1
-kind: ConfigMap
+kind: a
 metadata:
-  name: demo
+  name: demo-1
   namespace: app
 data:
   key: value
